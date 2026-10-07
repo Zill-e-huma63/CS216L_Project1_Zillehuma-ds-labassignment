@@ -33,8 +33,7 @@ Student Record System is a Java-based project used to manage student records. It
 
 ## GitHub Repository
 
-[CS216L_Project1_Zillehuma-ds-labassignment](YOUR_GITHUB_REPOSITORY_LINK)
-
+https://github.com/Zill-e-huma63/Zillehuma-ds-labassignment1
 ## Group Name
 
 Zillehuma DS Lab Assignment
